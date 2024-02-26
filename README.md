@@ -1,5 +1,9 @@
 # Obstacle Assault
 
+A third-person platformer game with platform mechanics coded in C++ and level progression and timer functionality implemented using the blueprint language.
+
+The assets are used from the free package "Unreal Learning Kit: Games".
+
 CONTROLS:
 
 WASD / Arrows - Move
